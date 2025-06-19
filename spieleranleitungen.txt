@@ -13,7 +13,7 @@
 - **Deine Frage:** "Was ist CHARLIE?"
 
 ### SCHRITT 3 (Runde 3)
-- **Aktion:** Gruppenanruf mit Spieler 12+13
+- **Aktion:** starte Gruppenanruf mit Spieler 12+13
 - **Deine Frage:** "Was ist DELTA?"
 - **Deine Antworten:** "TIGER" und "EAGLE"
 
@@ -42,7 +42,7 @@
 - **Deine Frage:** "Was ist BRAVO?"
 
 ### SCHRITT 3 (Runde 3)
-- **Aktion:** Gruppenanruf mit Spieler 11+13
+- **Aktion:** Empfange Anruf
 - **Deine Frage:** "Was ist CHARLIE?"
 - **Deine Antworten:** "SHARK" und "EAGLE"
 
@@ -71,7 +71,7 @@
 - **Deine Frage:** "Was ist ECHO?"
 
 ### SCHRITT 3 (Runde 3)
-- **Aktion:** Gruppenanruf mit Spieler 11+12
+- **Aktion:** Empfange Anruf
 - **Deine Frage:** "Was ist BRAVO?"
 - **Deine Antworten:** "SHARK" und "TIGER"
 
@@ -100,7 +100,7 @@
 - **Deine Antwort:** "PANTH"
 
 ### SCHRITT 3 (Runde 3)
-- **Aktion:** Gruppenanruf mit Spieler 22+23
+- **Aktion:** starte Gruppenanruf mit Spieler 22+23
 - **Deine Frage:** "Was ist ALPHA?"
 - **Deine Antworten:** "COBRA" und "PANTH"
 
@@ -129,7 +129,7 @@
 - **Deine Antwort:** "EAGLE"
 
 ### SCHRITT 3 (Runde 3)
-- **Aktion:** Gruppenanruf mit Spieler 21+23
+- **Aktion:** Empfange Anruf
 - **Deine Frage:** "Was ist DELTA?"
 - **Deine Antworten:** "SHARK" und "PANTH"
 
@@ -158,7 +158,7 @@
 - **Deine Antwort:** "TIGER"
 
 ### SCHRITT 3 (Runde 3)
-- **Aktion:** Gruppenanruf mit Spieler 21+22
+- **Aktion:** Empfange Anruf
 - **Deine Frage:** "Was ist CHARLIE?"
 - **Deine Antworten:** "SHARK" und "COBRA"
 
