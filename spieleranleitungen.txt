@@ -8,7 +8,7 @@
 - **Deine Antwort:** "TIGER"
 
 ### SCHRITT 2 (Runde 2)  
-- **Aktion:** Empfange Anruf von Spieler 23
+- **Aktion:** Empfange Anruf
 - **Deine Antwort:** "COBRA"
 - **Deine Frage:** "Was ist CHARLIE?"
 
@@ -18,7 +18,7 @@
 - **Deine Antworten:** "TIGER" und "EAGLE"
 
 ### SCHRITT 4 (Runde 4)
-- **Aktion:** Empfange Anruf von Spieler 23
+- **Aktion:** Empfange Anruf
 - **Deine Antwort:** "EAGLE"
 - **Deine Frage:** "Was ist BRAVO?"
 
@@ -37,7 +37,7 @@
 - **Deine Antwort:** "VIPER"
 
 ### SCHRITT 2 (Runde 2)
-- **Aktion:** Empfange Anruf von Spieler 21
+- **Aktion:** Empfange Anruf
 - **Deine Antwort:** "VIPER"
 - **Deine Frage:** "Was ist BRAVO?"
 
@@ -47,7 +47,7 @@
 - **Deine Antworten:** "SHARK" und "EAGLE"
 
 ### SCHRITT 4 (Runde 4)
-- **Aktion:** Empfange Anruf von Spieler 21
+- **Aktion:** Empfange Anruf
 - **Deine Antwort:** "TIGER"
 - **Deine Frage:** "Was ist DELTA?"
 
@@ -66,7 +66,7 @@
 - **Deine Antwort:** "EAGLE"
 
 ### SCHRITT 2 (Runde 2)
-- **Aktion:** Empfange Anruf von Spieler 22
+- **Aktion:** Empfange Anruf 
 - **Deine Antwort:** "PANTH"
 - **Deine Frage:** "Was ist ECHO?"
 
@@ -76,7 +76,7 @@
 - **Deine Antworten:** "SHARK" und "TIGER"
 
 ### SCHRITT 4 (Runde 4)
-- **Aktion:** Empfange Anruf von Spieler 22
+- **Aktion:** Empfange Anruf
 - **Deine Antwort:** "SHARK"
 - **Deine Frage:** "Was ist CHARLIE?"
 
@@ -90,7 +90,7 @@
 ## SPIELER 21
 
 ### SCHRITT 1 (Runde 1)
-- **Aktion:** Empfange Anruf von Spieler 11
+- **Aktion:** Empfange Anruf
 - **Deine Antwort:** "SHARK"
 - **Deine Frage:** "Was ist GOLF?"
 
@@ -168,7 +168,7 @@
 - **Deine Antwort:** "COBRA"
 
 ### SCHRITT 5 (Runde 5)
-- **Aktion:** Empfange Anruf von Spieler 12
+- **Aktion:** Empfange Anruf
 - **Deine Antwort:** "TIGER"
 - **Deine Frage:** "Was ist CHARLIE?"
 
@@ -177,7 +177,7 @@
 ## SPIELER 23
 
 ### SCHRITT 1 (Runde 1)
-- **Aktion:** Empfange Anruf von Spieler 13
+- **Aktion:** Empfange Anruf
 - **Wenn er fragt:** "Was ist FOXTROT?" → Antworte: "SHARK"
 - **Deine Frage:** "Was ist FOXTROT?"
 
@@ -197,7 +197,7 @@
 - **Wenn er fragt:** "Was ist BRAVO?" → Antworte: "COBRA"
 
 ### SCHRITT 5 (Runde 5)
-- **Aktion:** Empfange Anruf von Spieler 12
+- **Aktion:** Empfange Anruf
 - **Wenn er fragt:** "Was ist GOLF?" → Antworte: "TIGER"
 - **Deine Frage:** "Was ist CHARLIE?"
 
