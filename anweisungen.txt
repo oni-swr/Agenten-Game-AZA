@@ -1,0 +1,79 @@
+# RUNDENANWEISUNGEN - GEHEIMAGENT MISSION (2 MINUTEN PRO RUNDE)
+
+TELEFON 11 (Agent Alpha-11):
+Runde 1: ANRUFEN Telefon 21 - Frage nach “Morgenbesprechungscode”
+Runde 2: WARTEN auf Anruf von Telefon 23
+Runde 3: ANRUFEN Telefon 12 - Frage nach “Sektorverifikation”
+Runde 4: GRUPPENANRUF (Alpha-Gruppe: 11, 12, 13)
+Runde 5: GRUPPENWECHSEL → Du bist jetzt CHARLIE-11 (Neue Gruppe: 11, 21, 22)
+Runde 6: ANRUFEN Telefon 22 - Frage nach “Zugriffssequenz”
+Runde 7: WARTEN auf Anruf von Telefon 13
+Runde 8: ANRUFEN Telefon 23 - Frage nach “Endkoordinaten”
+Runde 9: GRUPPENANRUF (Charlie-Gruppe: 11, 21, 22)
+Runde 10: ALLE TELEFONE GRUPPENANRUF - Teile finale Passwort-Teile
+
+TELEFON 12 (Agent Alpha-12):
+Runde 1: WARTEN auf Anruf von Telefon 22
+Runde 2: ANRUFEN Telefon 13 - Frage nach “Standortfragment”
+Runde 3: WARTEN auf Anruf von Telefon 11
+Runde 4: GRUPPENANRUF (Alpha-Gruppe: 11, 12, 13)
+Runde 5: GRUPPENWECHSEL → Du bist jetzt DELTA-12 (Neue Gruppe: 12, 13, 23)
+Runde 6: ANRUFEN Telefon 23 - Frage nach “Sicherheitsfreigabe”
+Runde 7: WARTEN auf Anruf von Telefon 21
+Runde 8: ANRUFEN Telefon 22 - Frage nach “Ersatzroute”
+Runde 9: GRUPPENANRUF (Delta-Gruppe: 12, 13, 23)
+Runde 10: ALLE TELEFONE GRUPPENANRUF - Teile finale Passwort-Teile
+
+TELEFON 13 (Agent Alpha-13):
+Runde 1: ANRUFEN Telefon 23 - Frage nach “Erstkontaktcode”
+Runde 2: WARTEN auf Anruf von Telefon 12
+Runde 3: ANRUFEN Telefon 21 - Frage nach “Missionsstatus”
+Runde 4: GRUPPENANRUF (Alpha-Gruppe: 11, 12, 13)
+Runde 5: GRUPPENWECHSEL → Du bist jetzt DELTA-13 (Neue Gruppe: 12, 13, 23)
+Runde 6: WARTEN auf Anruf von Telefon 22
+Runde 7: ANRUFEN Telefon 11 - Frage nach “Routenbestätigung”
+Runde 8: WARTEN auf Anruf von Telefon 21
+Runde 9: GRUPPENANRUF (Delta-Gruppe: 12, 13, 23)
+Runde 10: ALLE TELEFONE GRUPPENANRUF - Teile finale Passwort-Teile
+
+TELEFON 21 (Agent Beta-21):
+Runde 1: WARTEN auf Anruf von Telefon 11
+Runde 2: ANRUFEN Telefon 11 - Frage nach “Primärziel”
+Runde 3: WARTEN auf Anruf von Telefon 13
+Runde 4: GRUPPENANRUF (Beta-Gruppe: 21, 22, 23)
+Runde 5: GRUPPENWECHSEL → Du bist jetzt CHARLIE-21 (Neue Gruppe: 11, 21, 22)
+Runde 6: WARTEN auf Anruf von Telefon 12
+Runde 7: ANRUFEN Telefon 22 - Frage nach “Extraktionszeit”
+Runde 8: ANRUFEN Telefon 13 - Frage nach “Perimeterstatus”
+Runde 9: GRUPPENANRUF (Charlie-Gruppe: 11, 21, 22)
+Runde 10: ALLE TELEFONE GRUPPENANRUF - Teile finale Passwort-Teile
+
+TELEFON 22 (Agent Beta-22):
+Runde 1: ANRUFEN Telefon 12 - Frage nach “Ausrüstungsliste”
+Runde 2: ANRUFEN Telefon 23 - Frage nach “Überwachungsbericht”
+Runde 3: ANRUFEN Telefon 11 - Frage nach “Wetterbedingungen”
+Runde 4: GRUPPENANRUF (Beta-Gruppe: 21, 22, 23)
+Runde 5: GRUPPENWECHSEL → Du bist jetzt CHARLIE-22 (Neue Gruppe: 11, 21, 22)
+Runde 6: WARTEN auf Anruf von Telefon 11
+Runde 7: WARTEN auf Anruf von Telefon 21
+Runde 8: WARTEN auf Anruf von Telefon 12
+Runde 9: GRUPPENANRUF (Charlie-Gruppe: 11, 21, 22)
+Runde 10: ALLE TELEFONE GRUPPENANRUF - Teile finale Passwort-Teile
+
+TELEFON 23 (Agent Beta-23):
+Runde 1: WARTEN auf Anruf von Telefon 13
+Runde 2: WARTEN auf Anruf von Telefon 22
+Runde 3: ANRUFEN Telefon 12 - Frage nach “Transportdetails”
+Runde 4: GRUPPENANRUF (Beta-Gruppe: 21, 22, 23)
+Runde 5: GRUPPENWECHSEL → Du bist jetzt DELTA-23 (Neue Gruppe: 12, 13, 23)
+Runde 6: ANRUFEN Telefon 13 - Frage nach “Wachplan”
+Runde 7: ANRUFEN Telefon 12 - Frage nach “Kontaktfrequenz”
+Runde 8: WARTEN auf Anruf von Telefon 11
+Runde 9: GRUPPENANRUF (Delta-Gruppe: 12, 13, 23)
+Runde 10: ALLE TELEFONE GRUPPENANRUF - Teile finale Passwort-Teile
+
+WICHTIGER HINWEIS - GRUPPENWECHSEL NACH RUNDE 4:
+
+- Charlie-Gruppe: 11, 21, 22 (Gemischt!)
+- Delta-Gruppe: 12, 13, 23 (Gemischt!)
+- Rundendauer: Genau 2 Minuten pro Runde

@@ -1,0 +1,83 @@
+# REGELN ÜBERPRÜFUNG UND VERBESSERUNGSVORSCHLÄGE
+
+AKTUELLE REGELN ANALYSE:
+✓ 10 Runden Struktur ist klar
+✓ Verbindung und Informationsaustausch Konzept ist gut
+✓ Separate Informationsblätter - gute Organisation
+✓ Rundenblätter mit spezifischen Anweisungen - ausgezeichnet
+✓ Spezielle Gruppenanruf-Runden - schafft guten Rhythmus
+✓ Gruppenwechsel Alpha/Beta → Charlie/Delta mit GEMISCHTEN Gruppen - interessante Dynamik
+✓ Universelles Referenzblatt mit 3 Antwortmöglichkeiten pro Frage - erhöht Unvorhersagbarkeit
+✓ 2-Minuten-Runden - hält das Tempo hoch
+
+FEHLENDE ELEMENTE ZUM HINZUFÜGEN:
+
+1. ZEITREGELN:
+
+- Wie lang ist jede Runde? (Vorschlag: 3-4 Minuten)
+- Was passiert wenn ein Anruf überzieht?
+- Pufferzeit zwischen Runden?
+
+1. TECHNISCHE BACKUP-PLÄNE:
+
+- Was wenn jemand seine zugewiesene Person nicht erreichen kann?
+- Backup-Kommunikationsmethode (SMS, anderes Telefon?)
+- Was wenn jemandes Telefon kaputt geht?
+
+1. INFORMATIONSAUSTAUSCH REGELN:
+
+- Können Spieler Info frei während Gruppenanrufen teilen?
+- Dürfen Spieler sich Notizen machen?
+- Können sie Informationen aus vorherigen Runden wiederholen?
+
+1. ANRUF-BESCHRÄNKUNGEN:
+
+- Können Spieler nur Personen anrufen die auf ihrem Rundenblatt stehen?
+- Was wenn sie versehentlich die falsche Person anrufen?
+- Sind Notrufe erlaubt?
+
+1. SIEGBEDINGUNGEN:
+
+- Wie wissen Spieler dass sie gewonnen haben?
+- Was passiert wenn sie die falsche finale Antwort haben?
+- Gibt es eine Strafe für falsche Vermutungen?
+
+1. FAIRNESS-REGELN:
+
+- Was wenn jemand falsche Informationen gibt (versehentlich oder absichtlich)?
+- Wie mit Streitigkeiten über das Gesagte umgehen?
+- Verifikationsprozess für finale Antwort?
+
+1. GESAMTSPIELZEIT:
+
+- 10 Runden à 2 Minuten = 20 Minuten Kernspielzeit
+- Plus Setup, Erklärungen und Pausen = etwa 25-30 Minuten total
+- Wie wird der Wechsel von Alpha/Beta zu Charlie/Delta kommuniziert?
+- Behalten Spieler ihre Telefonnummern (11,12,13,21,22,23)?
+- Ändern sich die Anrufregeln nach dem Gruppenwechsel?
+
+VORGESCHLAGENE ZUSÄTZLICHE REGELN:
+
+“ERWEITERTE SPIELREGELN:
+
+- Jede Runde dauert genau 2 MINUTEN
+- Spieler dürfen nur Personen anrufen die auf ihrem Rundenblatt stehen
+- Notizen machen ist erwünscht und erlaubt
+- Während Gruppenanrufen, teilt Informationen frei
+- Wenn ihr jemanden nicht erreichen könnt: wartet, dann versucht es noch einmal
+- Finale Antwort muss von allen Spielern zusammen verkündet werden
+- Spielleiter verifiziert das finale Passwort
+- Keine Weitergabe der Rundenblätter an andere Spieler
+- Nach Runde 4: GEMISCHTE Gruppen (Charlie: 11,21,22 / Delta: 12,13,23)
+- Jeder kann jede Frage mit einer von 3 Antworten beantworten”
+
+EMPFOHLENE ERGÄNZUNGEN FÜR IHR DOKUMENT:
+
+1. Zeitstruktur hinzufügen (2-Minuten-Runden)
+1. Backup-Kommunikationsplan einschließen
+1. Notizen-Regeln spezifizieren
+1. Finalen Verifikationsprozess hinzufügen
+1. “Fair Play” Richtlinien einschließen
+1. Gruppenwechsel-Prozedur detaillieren (GEMISCHTE Gruppen!)
+1. Telefonnummern-System erklären (11,12,13 → Charlie/Delta, 21,22,23 → Charlie/Delta)
+1. Universelles Antworten-System erklären (3 Optionen pro Frage)
