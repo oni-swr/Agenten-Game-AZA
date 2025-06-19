@@ -1,6 +1,6 @@
 # SPIELER-ANLEITUNGEN: 5 SCHRITTE PRO SPIELER
 
-## SPIELER 11
+## SPIELER 1.1
 
 ### SCHRITT 1 (Runde 1)
 - **Aktion:** Rufe Spieler 21 an
@@ -29,7 +29,7 @@
 
 ---
 
-## SPIELER 12
+## SPIELER 1.2
 
 ### SCHRITT 1 (Runde 1)
 - **Aktion:** Rufe Spieler 22 an
@@ -58,7 +58,7 @@
 
 ---
 
-## SPIELER 13
+## SPIELER 1.3
 
 ### SCHRITT 1 (Runde 1)
 - **Aktion:** Rufe Spieler 23 an
@@ -87,7 +87,7 @@
 
 ---
 
-## SPIELER 21
+## SPIELER 2.1
 
 ### SCHRITT 1 (Runde 1)
 - **Aktion:** Empfange Anruf
@@ -116,7 +116,7 @@
 
 ---
 
-## SPIELER 22
+## SPIELER 2.2
 
 ### SCHRITT 1 (Runde 1)
 - **Aktion:** Empfange Anruf von Spieler 12
@@ -145,7 +145,7 @@
 
 ---
 
-## SPIELER 23
+## SPIELER 2.3
 
 ### SCHRITT 1 (Runde 1)
 - **Aktion:** Empfange Anruf von Spieler 13
