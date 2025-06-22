@@ -5,27 +5,27 @@
 ### SCHRITT 1 (Runde 1)
 - **Aktion:** Rufe Spieler 21 an
 - **Deine Frage:** "Was ist ECHO?"
-- **Deine Antwort:** "TIGER"
+- **Deine Antwort:** "GOLF"-> "TIGER"//"ALPHA"-> "CHARLIE"
 
 ### SCHRITT 2 (Runde 2)  
 - **Aktion:** Empfange Anruf
-- **Deine Antwort:** "COBRA"
+- **Deine Antwort:** "HOTEL"-> "COBRA"//"BRAVO"-> "EAGLE"
 - **Deine Frage:** "Was ist CHARLIE?"
 
 ### SCHRITT 3 (Runde 3)
 - **Aktion:** starte Gruppenanruf mit Spieler 12+13
 - **Deine Frage:** "Was ist DELTA?"
-- **Deine Antworten:** "TIGER" und "EAGLE"
+- **Deine Antworten:** "CHARLIE"-> "TIGER"//"BRAVO"-> "EAGLE"
 
 ### SCHRITT 4 (Runde 4)
 - **Aktion:** Empfange Anruf
-- **Deine Antwort:** "EAGLE"
+- **Deine Antwort:** "DELTA"-> "EAGLE"//"FOXTROT"-> "COBRA"
 - **Deine Frage:** "Was ist BRAVO?"
 
 ### SCHRITT 5 (Runde 5)
 - **Aktion:** Rufe Spieler 22 an
 - **Deine Frage:** "Was ist HOTEL?"
-- **Deine Antwort:** "RAVEN"
+- **Deine Antwort:** "ECHO"-> "RAVEN"//"ALPHA"-> "SHARK"
 
 ---
 
@@ -34,27 +34,27 @@
 ### SCHRITT 1 (Runde 1)
 - **Aktion:** Rufe Spieler 22 an
 - **Deine Frage:** "Was ist HOTEL?"
-- **Deine Antwort:** "VIPER"
+- **Deine Antwort:** "CHARLIE"-> "VIPER"//"DELTA"-> "TIGER"
 
 ### SCHRITT 2 (Runde 2)
 - **Aktion:** Empfange Anruf
-- **Deine Antwort:** "VIPER"
+- **Deine Antwort:** "CHARLIE"-> "VIPER"//"ECHO"-> "TIGER"
 - **Deine Frage:** "Was ist BRAVO?"
 
 ### SCHRITT 3 (Runde 3)
 - **Aktion:** Empfange Anruf
 - **Deine Frage:** "Was ist CHARLIE?"
-- **Deine Antworten:** "SHARK" und "EAGLE"
+- **Deine Antworten:** "DELTA"-> "SHARK"//"BRAVO"-> "EAGLE"
 
 ### SCHRITT 4 (Runde 4)
 - **Aktion:** Empfange Anruf
-- **Deine Antwort:** "TIGER"
+- **Deine Antwort:** "ECHO"-> "TIGER"//"HOTEL"-> "SHARK"
 - **Deine Frage:** "Was ist DELTA?"
 
 ### SCHRITT 5 (Runde 5)
 - **Aktion:** Rufe Spieler 23 an
 - **Deine Frage:** "Was ist GOLF?"
-- **Deine Antwort:** "TIGER"
+- **Deine Antwort:** "CHARLIE"-> "TIGER"//"FOXTROT"-> "EAGLE"
 
 ---
 
@@ -63,27 +63,27 @@
 ### SCHRITT 1 (Runde 1)
 - **Aktion:** Rufe Spieler 23 an
 - **Deine Frage:** "Was ist FOXTROT?"
-- **Deine Antwort:** "EAGLE"
+- **Deine Antwort:** "FOXTROT"-> "EAGLE"//"HOTEL"-> "COBRA"
 
 ### SCHRITT 2 (Runde 2)
 - **Aktion:** Empfange Anruf 
-- **Deine Antwort:** "PANTH"
+- **Deine Antwort:** "ECHO"-> "PANTH"//"ALPHA"-> "SHARK"
 - **Deine Frage:** "Was ist ECHO?"
 
 ### SCHRITT 3 (Runde 3)
 - **Aktion:** Empfange Anruf
 - **Deine Frage:** "Was ist BRAVO?"
-- **Deine Antworten:** "SHARK" und "TIGER"
+- **Deine Antworten:** "DELTA"-> "SHARK"//"CHARLIE"-> "TIGER"
 
 ### SCHRITT 4 (Runde 4)
 - **Aktion:** Empfange Anruf
-- **Deine Antwort:** "SHARK"
+- **Deine Antwort:** "FOXTROT"-> "SHARK"//"GOLF"-> "TIGER"
 - **Deine Frage:** "Was ist CHARLIE?"
 
 ### SCHRITT 5 (Runde 5)
 - **Aktion:** Rufe Spieler 21 an
 - **Deine Frage:** "Was ist FOXTROT?"
-- **Deine Antwort:** "COBRA"
+- **Deine Antwort:** "FOXTROT"-> "COBRA"//"BRAVO"-> "EAGLE"
 
 ---
 
@@ -91,27 +91,27 @@
 
 ### SCHRITT 1 (Runde 1)
 - **Aktion:** Empfange Anruf
-- **Deine Antwort:** "SHARK"
+- **Deine Antwort:** "ECHO"-> "SHARK"//"CHARLIE"-> "VIPER"
 - **Deine Frage:** "Was ist GOLF?"
 
 ### SCHRITT 2 (Runde 2)
 - **Aktion:** Rufe Spieler 12 an
 - **Deine Frage:** "Was ist CHARLIE?"
-- **Deine Antwort:** "PANTH"
+- **Deine Antwort:** "BRAVO"-> "PANTH"//"DELTA"-> "TIGER"
 
 ### SCHRITT 3 (Runde 3)
 - **Aktion:** starte Gruppenanruf mit Spieler 22+23
 - **Deine Frage:** "Was ist ALPHA?"
-- **Deine Antworten:** "COBRA" und "PANTH"
+- **Deine Antworten:** "DELTA"-> "COBRA"//"CHARLIE"-> "PANTH"
 
 ### SCHRITT 4 (Runde 4)
 - **Aktion:** Rufe Spieler 12 an
 - **Deine Frage:** "Was ist ECHO?"
-- **Deine Antwort:** "TIGER"
+- **Deine Antwort:** "DELTA"-> "TIGER"//"GOLF"-> "HOTEL"
 
 ### SCHRITT 5 (Runde 5)
 - **Aktion:** Empfange Anruf von Spieler 13
-- **Deine Antwort:** "EAGLE"
+- **Deine Antwort:** "FOXTROT"-> "EAGLE"//"ALPHA"-> "SHARK"
 - **Deine Frage:** "Was ist FOXTROT?"
 
 ---
@@ -120,27 +120,27 @@
 
 ### SCHRITT 1 (Runde 1)
 - **Aktion:** Empfange Anruf von Spieler 12
-- **Deine Antwort:** "SHARK"
+- **Deine Antwort:** "HOTEL"-> "SHARK"//"GOLF"-> "TIGER"
 - **Deine Frage:** "Was ist CHARLIE?"
 
 ### SCHRITT 2 (Runde 2)
 - **Aktion:** Rufe Spieler 13 an
 - **Deine Frage:** "Was ist ECHO?"
-- **Deine Antwort:** "EAGLE"
+- **Deine Antwort:** "ECHO"-> "EAGLE"//"FOXTROT"-> "SHARK"
 
 ### SCHRITT 3 (Runde 3)
 - **Aktion:** Empfange Anruf
 - **Deine Frage:** "Was ist DELTA?"
-- **Deine Antworten:** "SHARK" und "PANTH"
+- **Deine Antworten:** "ALPHA"-> "SHARK"//"CHARLIE"-> "PANTH"
 
 ### SCHRITT 4 (Runde 4)
 - **Aktion:** Rufe Spieler 13 an
 - **Deine Frage:** "Was ist FOXTROT?"
-- **Deine Antwort:** "SHARK"
+- **Deine Antwort:** "CHARLIE"-> "SHARK"//"HOTEL"-> "COBRA"
 
 ### SCHRITT 5 (Runde 5)
 - **Aktion:** Empfange Anruf von Spieler 11
-- **Deine Antwort:** "COBRA"
+- **Deine Antwort:** "HOTEL"-> "COBRA"//"GOLF"-> "TIGER"
 - **Deine Frage:** "Was ist ECHO?"
 
 ---
@@ -149,27 +149,27 @@
 
 ### SCHRITT 1 (Runde 1)
 - **Aktion:** Empfange Anruf von Spieler 13
-- **Deine Antwort:** "SHARK"
+- **Deine Antwort:** "FOXTROT"-> "SHARK"//"ECHO"-> "PANTH"
 - **Deine Frage:** "Was ist FOXTROT?"
 
 ### SCHRITT 2 (Runde 2)
 - **Aktion:** Rufe Spieler 11 an
 - **Deine Frage:** "Was ist HOTEL?"
-- **Deine Antwort:** "TIGER"
+- **Deine Antwort:** "CHARLIE"-> "TIGER"//"ALPHA"-> "SHARK"
 
 ### SCHRITT 3 (Runde 3)
 - **Aktion:** Empfange Anruf
 - **Deine Frage:** "Was ist CHARLIE?"
-- **Deine Antworten:** "SHARK" und "COBRA"
+- **Deine Antworten:** "ALPHA"-> "SHARK"//"DELTA"-> "COBRA"
 
 ### SCHRITT 4 (Runde 4)
 - **Aktion:** Rufe Spieler 11 an
 - **Deine Frage:** "Was ist DELTA?"
-- **Deine Antwort:** "COBRA"
+- **Deine Antwort:** "BRAVO"-> "COBRA"//"ECHO"-> "PANTH"
 
 ### SCHRITT 5 (Runde 5)
 - **Aktion:** Empfange Anruf
-- **Deine Antwort:** "TIGER"
+- **Deine Antwort:** "GOLF"-> "TIGER"//"FOXTROT"-> "EAGLE"
 - **Deine Frage:** "Was ist CHARLIE?"
 
 
